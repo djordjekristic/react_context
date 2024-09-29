@@ -24,5 +24,6 @@ export const userReducer = (state,action) =>{
             return {...state, isUserCreated: action.payload}; 
         default:
             return state;   
+
     }
 }

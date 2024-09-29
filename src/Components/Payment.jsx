@@ -1,5 +1,6 @@
 import PayPal from "./PayPal"
 
+
 const Payment = () =>{
     return(
         <>
